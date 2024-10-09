@@ -21,3 +21,5 @@ LockScreenImage
 .\lockscreen_wallpaper.exe set 'C:\Users\project\wallpaper.jpg'
 
 .\lockscreen_wallpaper.exe remove
+
+[官方设置教程-关于使用服务组策略统一域内 Windows 专业版本 成员锁屏桌面问题](https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8%E6%9C%8D/45f46642-d893-4a29-914b-56423bafcf03#:~:text=%E6%A0%B9%E6%8D%AE%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%BB%84)
